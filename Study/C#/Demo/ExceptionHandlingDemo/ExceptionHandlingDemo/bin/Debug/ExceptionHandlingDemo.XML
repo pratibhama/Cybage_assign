@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExceptionHandlingDemo</name>
+    </assembly>
+    <members>
+        <member name="M:ExceptionHandlingDemo.Program.Main(System.String[])">
+            <summary>
+            Entry point of the application
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>

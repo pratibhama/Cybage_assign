@@ -1,0 +1,13 @@
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.dll
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.xml
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Training Materials\Technologies\Entity Framework\Demo\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EntityFrameworkDemo\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EntityFrameworkDemo\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EntityFrameworkDemo\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

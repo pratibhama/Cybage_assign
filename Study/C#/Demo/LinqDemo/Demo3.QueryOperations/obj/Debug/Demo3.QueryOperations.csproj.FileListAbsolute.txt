@@ -1,0 +1,12 @@
+D:\Training Materials\Technologies\C#.NET\Presentations\LINQ\LinqDemo\Demo3.QueryOperations\bin\Debug\Demo3.QueryOperations.exe.config
+D:\Training Materials\Technologies\C#.NET\Presentations\LINQ\LinqDemo\Demo3.QueryOperations\bin\Debug\Demo3.QueryOperations.exe
+D:\Training Materials\Technologies\C#.NET\Presentations\LINQ\LinqDemo\Demo3.QueryOperations\bin\Debug\Demo3.QueryOperations.pdb
+D:\Training Materials\Technologies\C#.NET\Presentations\LINQ\LinqDemo\Demo3.QueryOperations\obj\Debug\Demo3.QueryOperations.exe
+D:\Training Materials\Technologies\C#.NET\Presentations\LINQ\LinqDemo\Demo3.QueryOperations\obj\Debug\Demo3.QueryOperations.pdb
+D:\Training Materials\Technologies\C#.NET\Presentations\LINQ\LinqDemo\Demo3.QueryOperations\obj\Debug\Demo3.QueryOperations.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\LinqDemo\Demo3.QueryOperations\bin\Debug\Demo3.QueryOperations.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\LinqDemo\Demo3.QueryOperations\obj\Debug\Demo3.QueryOperations.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\LinqDemo\Demo3.QueryOperations\obj\Debug\Demo3.QueryOperations.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\LinqDemo\Demo3.QueryOperations\bin\Debug\Demo3.QueryOperations.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\LinqDemo\Demo3.QueryOperations\bin\Debug\Demo3.QueryOperations.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\LinqDemo\Demo3.QueryOperations\obj\Debug\Demo3.QueryOperations.csprojResolveAssemblyReference.cache

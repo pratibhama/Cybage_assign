@@ -1,0 +1,80 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DynamicPolymorphismDemo
+{
+    abstract class Shape
+    {
+        protected int height, width;
+        public Shape(int x, int y)
+        {
+            height = x;
+            width = y;
+        }
+
+        public virtual int CalculateArea()
+        {
+            Console.WriteLine("Base class method called");
+            return 0;
+        }
+
+        //abstract method can be declared only inside an abstract class
+        //public abstract int CalculateArea();
+       
+    }
+
+    class Triangle : Shape
+    {
+        public Triangle(int x, int y)
+            : base(x, y)
+        {
+           
+        }
+
+        public override int CalculateArea()
+        {
+            Console.WriteLine("Triangle class method called");
+            return (height * width / 2);
+        }
+    }
+
+    class Rectangle : Shape
+    {
+        public Rectangle(int x, int y) : base(x,y)
+        {
+           
+        }
+
+        public override int CalculateArea()
+        {
+            Console.WriteLine("Rectangle Class method called");
+            return height * width;
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Shape s;
+            s = new Rectangle(5, 6);
+            Console.WriteLine("Area of a Rectangle {0}", s.CalculateArea());
+
+            s = new Triangle(5, 6);
+            Console.WriteLine("Area of a Triangle {0}", s.CalculateArea());
+
+            /*
+            object[] shapes = new object[2];
+            shapes[0] = new Rectangle(5, 6);
+            shapes[1] = new Triangle(5, 6);
+           
+            foreach (Shape s in shapes)
+            {
+                Console.WriteLine("Area : {0}", s.CalculateArea());
+            }
+            */
+        }
+    }
+}

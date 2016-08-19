@@ -1,0 +1,8 @@
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\CharacterIODemo\bin\Debug\CharacterIODemo.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\CharacterIODemo\bin\Debug\CharacterIODemo.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\CharacterIODemo\bin\Debug\CharacterIODemo.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\CharacterIODemo\obj\Debug\CharacterIODemo.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\CharacterIODemo\obj\Debug\CharacterIODemo.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\CharacterIODemo\obj\Debug\CharacterIODemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\CharacterIODemo\obj\Debug\CharacterIODemo.csprojResolveAssemblyReference.cache
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\CharacterIODemo\obj\Debug\CharacterIODemo.exe

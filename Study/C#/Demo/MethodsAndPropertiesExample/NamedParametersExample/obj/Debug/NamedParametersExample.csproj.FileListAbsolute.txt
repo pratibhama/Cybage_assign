@@ -1,0 +1,21 @@
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe.config
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.pdb
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.pdb
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.csprojResolveAssemblyReference.cache
+D:\Training Materials\Technologies\C#.NET\2014\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe.config
+D:\Training Materials\Technologies\C#.NET\2014\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.exe
+D:\Training Materials\Technologies\C#.NET\2014\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.pdb
+D:\Training Materials\Technologies\C#.NET\2014\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe
+D:\Training Materials\Technologies\C#.NET\2014\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.pdb
+D:\Training Materials\Technologies\C#.NET\2014\Methods and Properties\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.csprojResolveAssemblyReference.cache
+D:\Training Materials\Technologies\C#.NET\Presentations\01 Introduction to C#\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe.config
+D:\Training Materials\Technologies\C#.NET\Presentations\01 Introduction to C#\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.exe
+D:\Training Materials\Technologies\C#.NET\Presentations\01 Introduction to C#\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\NamedParametersExample\bin\Debug\NamedParametersExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\NamedParametersExample\obj\Debug\NamedParametersExample.csprojResolveAssemblyReference.cache

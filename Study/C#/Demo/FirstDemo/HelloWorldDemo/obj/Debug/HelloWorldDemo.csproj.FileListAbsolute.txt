@@ -1,0 +1,9 @@
+C:\Users\sushantba\Documents\Visual Studio 2013\Projects\FirstDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.exe.config
+C:\Users\sushantba\Documents\Visual Studio 2013\Projects\FirstDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.exe
+C:\Users\sushantba\Documents\Visual Studio 2013\Projects\FirstDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.pdb
+C:\Users\sushantba\Documents\Visual Studio 2013\Projects\FirstDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.csprojResolveAssemblyReference.cache
+C:\Users\sushantba\Documents\Visual Studio 2013\Projects\FirstDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.exe
+C:\Users\sushantba\Documents\Visual Studio 2013\Projects\FirstDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FirstDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.exe.config
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FirstDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FirstDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.pdb

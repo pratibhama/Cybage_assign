@@ -1,0 +1,15 @@
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.csprojResolveAssemblyReference.cache
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe.config
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.pdb
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\MethodsAndPropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe.config
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\MethodsAndPropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.pdb

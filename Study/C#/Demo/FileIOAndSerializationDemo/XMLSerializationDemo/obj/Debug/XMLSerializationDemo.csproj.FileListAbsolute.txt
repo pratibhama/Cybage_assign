@@ -1,0 +1,12 @@
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\XMLSerializationDemo\bin\Debug\XMLSerializationDemo.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\XMLSerializationDemo\bin\Debug\XMLSerializationDemo.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\XMLSerializationDemo\bin\Debug\XMLSerializationDemo.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\XMLSerializationDemo\obj\Debug\XMLSerializationDemo.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\XMLSerializationDemo\obj\Debug\XMLSerializationDemo.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\FileIODemo\XMLSerializationDemo\obj\Debug\XMLSerializationDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\XMLSerializationDemo\bin\Debug\XMLSerializationDemo.exe.config
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\XMLSerializationDemo\obj\Debug\XMLSerializationDemo.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\XMLSerializationDemo\obj\Debug\XMLSerializationDemo.pdb
+\\PUNE-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\XMLSerializationDemo\bin\Debug\XMLSerializationDemo.exe
+\\PUNE-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\XMLSerializationDemo\bin\Debug\XMLSerializationDemo.pdb
+\\PUNE-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\FileIOAndSerializationDemo\XMLSerializationDemo\obj\Debug\XMLSerializationDemo.csprojResolveAssemblyReference.cache

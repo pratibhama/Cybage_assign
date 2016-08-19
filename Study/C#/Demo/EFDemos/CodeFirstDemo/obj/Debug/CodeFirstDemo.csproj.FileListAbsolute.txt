@@ -1,0 +1,20 @@
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\EFDemos\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\C#\Demo\EFDemos\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache

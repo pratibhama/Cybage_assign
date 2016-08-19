@@ -1,0 +1,11 @@
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\obj\Debug\CalculatorLibraryClient.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\bin\Debug\CalculatorLibraryClient.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\bin\Debug\CalculatorLibraryClient.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\bin\Debug\CalculatorLibraryClient.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\bin\Debug\CalculatorLibrary.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\bin\Debug\CalculatorLibrary.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\obj\Debug\CalculatorLibraryClient.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\AccessModifierDemo\CalculatorLibraryClient\obj\Debug\CalculatorLibraryClient.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\AccessModifierDemo\CalculatorLibraryClient\bin\Debug\CalculatorLibraryClient.exe.config
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\AccessModifierDemo\CalculatorLibraryClient\obj\Debug\CalculatorLibraryClient.exe
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\1.TrainingContent\C#\Demo\AccessModifierDemo\CalculatorLibraryClient\obj\Debug\CalculatorLibraryClient.pdb

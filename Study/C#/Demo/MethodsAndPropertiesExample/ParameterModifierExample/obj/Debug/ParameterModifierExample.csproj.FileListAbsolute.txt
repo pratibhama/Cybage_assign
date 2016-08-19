@@ -1,0 +1,6 @@
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\ParameterModifierExample\bin\Debug\ParameterModifierExample.exe.config
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\ParameterModifierExample\bin\Debug\ParameterModifierExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\ParameterModifierExample\bin\Debug\ParameterModifierExample.pdb
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\ParameterModifierExample\obj\Debug\ParameterModifierExample.csprojResolveAssemblyReference.cache
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\ParameterModifierExample\obj\Debug\ParameterModifierExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\ParameterModifierExample\obj\Debug\ParameterModifierExample.pdb

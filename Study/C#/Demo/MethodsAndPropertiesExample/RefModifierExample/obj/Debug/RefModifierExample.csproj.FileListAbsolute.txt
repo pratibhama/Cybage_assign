@@ -1,0 +1,12 @@
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\RefModifierExample\bin\Debug\RefModifierExample.exe.config
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\RefModifierExample\bin\Debug\RefModifierExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\RefModifierExample\bin\Debug\RefModifierExample.pdb
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\RefModifierExample\obj\Debug\RefModifierExample.csprojResolveAssemblyReference.cache
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\RefModifierExample\obj\Debug\RefModifierExample.exe
+D:\.NET Materials\C#.NET\C# 5\Methods and Properties\MethodsAndPropertiesExample\RefModifierExample\obj\Debug\RefModifierExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\RefModifierExample\bin\Debug\RefModifierExample.exe.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\RefModifierExample\obj\Debug\RefModifierExample.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\RefModifierExample\obj\Debug\RefModifierExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\RefModifierExample\bin\Debug\RefModifierExample.exe
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\RefModifierExample\bin\Debug\RefModifierExample.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\C#\Demos\MethodsAndPropertiesExample\RefModifierExample\obj\Debug\RefModifierExample.csprojResolveAssemblyReference.cache
